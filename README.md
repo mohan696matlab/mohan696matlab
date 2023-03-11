@@ -5,11 +5,11 @@
 
 - Outside of my research, I'm also a content creator on YouTube, where I make videos on the application of AI in fault diagnosis. [Intelligent Machines](https://www.youtube.com/channel/UCp58dPGXhs2TuNJ6izNKsYw)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohan696matlab](https://github.com/mohan696matlab)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/mohan696matlab)
 
 - 📫 How to reach me **mohandash96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sWVCaLrZCA8f-aHj5ROeIKf5wi-KoLIw/view?usp=share_link](https://drive.google.com/file/d/1sWVCaLrZCA8f-aHj5ROeIKf5wi-KoLIw/view?usp=share_link)
+- 📄 Know about my experiences [CV/Resume](https://drive.google.com/file/d/1sWVCaLrZCA8f-aHj5ROeIKf5wi-KoLIw/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
