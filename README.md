@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/mohan696matlab)
 
+- 👨‍🔬 My published Research papers [Google Scholar](https://scholar.google.com/citations?user=jzcIElIAAAAJ&hl=en)
+
 - 📫 How to reach me **mohandash96@gmail.com**
 
 - 📄 Know about my experiences [CV/Resume](https://drive.google.com/file/d/1sWVCaLrZCA8f-aHj5ROeIKf5wi-KoLIw/view?usp=share_link)
