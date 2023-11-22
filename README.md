@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohandash96@gmail.com**
 
-- 📄 Know about my experiences [CV/Resume](https://drive.google.com/file/d/1sWVCaLrZCA8f-aHj5ROeIKf5wi-KoLIw/view?usp=share_link)
+- 📄 Know about my experiences [CV/Resume](https://drive.google.com/file/d/1rTWc3B9PPjucPP9ZwRSJAzt3V-O0I4HG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
