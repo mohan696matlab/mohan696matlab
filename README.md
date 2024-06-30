@@ -9,7 +9,7 @@
 
 - 👨‍🔬 My published Research papers [Google Scholar](https://scholar.google.com/citations?user=jzcIElIAAAAJ&hl=en)
 
-- 📫 How to reach me **mohandash96@gmail.com**
+- 📫 How to reach me **[1:1 call](https://topmate.io/balyogi_mohan_dash_phd/)**
 
 - 📄 Know about my experiences [CV/Resume](https://drive.google.com/file/d/1rTWc3B9PPjucPP9ZwRSJAzt3V-O0I4HG/view?usp=sharing)
 
