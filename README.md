@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohan</h1>
-<h3 align="center">PhD candidate in artificial intelligence, specializing in fault diagnosis of green hydrogen multi-source hybrid systems.</h3>
+<h3 align="center">Machine Learning Engineer @ BUAWEI, France. PhD in Industrial Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan696matlab&label=Profile%20views&color=0e75b6&style=flat" alt="mohan696matlab" /> </p>
 
